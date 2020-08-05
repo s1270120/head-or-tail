@@ -24,8 +24,5 @@ for(int i = 0;i<3; i++){
 System.out.println("Heads:"+H+",Tails:"+T);
 
     }
-if(H>T){
-    System.out.println(str+ " won");
-}
-else  System.out.println(str+ " lost");
+
 }
